@@ -1,0 +1,87 @@
+.parent{
+    background: darkblue;
+    height: 60px;
+    text-align: center;
+    position: relative;
+}
+.child{
+    background: white;
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 45%;
+    border-style: ridge;
+    border-color: red;
+    
+}
+body{
+    margin: 0%;
+}
+#sub{
+    font-size: x-small;
+}
+
+#button1{
+    background-color: darkblue;
+    color: white;
+}
+#row{
+    display: flex;
+    justify-content: space-between;
+}
+hr{
+    border-radius: 3px;
+}
+.search{
+    padding:1%;
+}
+.subscribe{
+    padding-top: 1%;
+    
+}
+#image1{
+    width: 150px;
+    height: 150px;
+    padding-top: 20%;
+}
+#news1{
+    display:flex;
+    
+}
+.title1{
+    padding-left: 3%;
+    
+}
+.con{
+    height: 1cm;
+    width:4cm;
+    background-color: orangered;
+    color: white;
+    border-style: none;
+}
+#image2{
+    width: 150px;
+    height: 150px;
+    padding-top: 20%;
+}
+#news2{
+    display:flex;
+}
+.title2{
+    padding-left: 3%;
+}
+#image3{
+    width: 150px;
+    height: 150px;
+    padding-top: 20%;
+}
+#news3{
+    display:flex;
+}
+.title3{
+    padding-left: 3%;
+}
